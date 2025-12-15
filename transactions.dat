@@ -1,0 +1,14 @@
+1001 Deposit 100000 Initial deposit 0 0
+1002 Deposit 9000 Initial deposit 0 0
+1003 Transfer In 1000 Received transfer 0 0
+1004 Transfer Out 1000 Online transfer 10001 10002
+1005 Transfer In 1000 Online transfer 10001 10002
+1006 Deposit 1700  0 0
+1007 Deposit 400  0 0
+1001 Deposit 1000 Initial deposit 0 0
+1001 Deposit 900000 Initial deposit 0 0
+1002 Deposit 2000 Initial deposit 0 0
+1003 Deposit 10 Initial deposit 0 0
+1004 Transfer In 100 Received transfer 0 0
+1005 Transfer Out 100 Online transfer 10003 10006
+1006 Transfer In 100 Online transfer 10003 10006
